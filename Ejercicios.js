@@ -80,3 +80,4 @@ console.log(igv);
 let total=recibo.total(subtotal,igv);
 console.log(total)
 ;
+
