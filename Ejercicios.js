@@ -31,7 +31,7 @@ wolverine.origen="Resurreccion";
 wolverine.final=false;
 wolverine.ataque=120;
 
-//Agregando un metodo 
+//Agregando un metodo nuevo
 wolverine.superFuerza=function Ultrapoder(energia){
    return this.ataque+energia;
 }
